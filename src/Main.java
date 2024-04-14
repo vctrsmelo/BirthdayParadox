@@ -9,9 +9,9 @@ import java.util.Random;
 public class Main {
 
     private static final int DAYS_IN_YEAR = 365;
-    private static final int MIN_NUMBER_OF_PEOPLE = 5;
+    private static final int MIN_NUMBER_OF_PEOPLE = 2;
     private static final int MAX_NUMBER_OF_PEOPLE = 100;
-    private static final int INC_NUMBER_OF_PEOPLE = 5;
+    private static final int INC_NUMBER_OF_PEOPLE = 2;
 
     private static Map<Integer,Boolean> results = new HashMap<>();
 
